@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+superset_env/
+venv/
+.env/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+podman-compose*
